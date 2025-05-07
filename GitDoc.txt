@@ -1,0 +1,16 @@
+Git
+---------------
+	VCS(Version Control Software)
+	Version 
+		Syntax:
+			<Major>.<Minor>.<Class>
+
+
+	git config --list
+
+	Global Configuration
+
+	git config --global user.name "sivaprasad2848"
+	git config --global user.email "sivaprasad@cybersquare.org"
+
+	
